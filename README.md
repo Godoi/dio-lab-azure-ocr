@@ -3,7 +3,7 @@
 Este projeto realiza OCR (Optical Character Recognition) em imagens usando Azure ML para transformar as imagens em dados.
 
 ## Estrutura do Projeto
-
+```
 project_root/
 |-- inputs/
 | |-- image1.jpg
@@ -14,7 +14,7 @@ project_root/
 |-- score.py
 |-- requirements.txt
 |-- readme.md
-
+```
 
 ## Instruções de Uso
 
